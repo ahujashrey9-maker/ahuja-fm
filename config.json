@@ -1,4 +1,17 @@
 {
   "songsBetweenAnnouncements": 3,
-  "activeAnnouncements": []
+  "announcements": [
+    "ahujautsav.mp3",
+    "assistance.mp3",
+    "ethnic.mp3",
+    "instagram.mp3",
+    "kids.mp3",
+    "mens.mp3",
+    "newarrivals.mp3",
+    "offers.mp3",
+    "thankyou.mp3",
+    "visitagain.mp3",
+    "welcome.mp3",
+    "womens.mp3"
+  ]
 }
