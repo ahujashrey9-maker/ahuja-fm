@@ -1,17 +1,20 @@
 {
-  "songsBetweenAnnouncements": 3,
-  "announcements": [
-    "ahujautsav.mp3",
-    "assistance.mp3",
-    "ethnic.mp3",
-    "instagram.mp3",
-    "kids.mp3",
-    "mens.mp3",
-    "newarrivals.mp3",
-    "offers.mp3",
-    "thankyou.mp3",
-    "visitagain.mp3",
-    "welcome.mp3",
-    "womens.mp3"
-  ]
+"announcementIntervalMinutes": 8,
+"musicVolume": 0.45,
+"announcementVolume": 1.0,
+
+"announcements": [
+"welcome.mp3",
+"instagram.mp3",
+"offers.mp3",
+"womens.mp3",
+"mens.mp3",
+"kids.mp3",
+"ethnic.mp3",
+"newarrivals.mp3",
+"thankyou.mp3",
+"visitagain.mp3",
+"assistance.mp3",
+"ahujautsav.mp3"
+]
 }
