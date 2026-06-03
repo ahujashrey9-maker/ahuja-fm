@@ -1,6 +1,6 @@
 {
 "announcementIntervalMinutes": 5,
-"musicVolume": 0.15,
+"musicVolume": .25,
 "announcementVolume": 1.0,
 
 "announcements": [
